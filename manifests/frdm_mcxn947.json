@@ -20,7 +20,7 @@
             "Flash": "2 MB",
             "GPU": "None",
             "Resolution": "480x320",
-            "Display Size": "3.5\u201d",
+            "Display Size": "3.5”",
             "Interface": "SPI",
             "Color Depth": "16-bit",
             "Technology": "LCD",
@@ -33,6 +33,11 @@
     "urlToClone": "https://github.com/lvgl/lv_port_nxp_frdm_mcxn947",
     "logos": [
         "https://raw.githubusercontent.com/lvgl/project-creator/master/meta/images/nxp/logo.svg"
+    ],
+    "image": "https://raw.githubusercontent.com/lvgl/lv_port_nxp_frdm_mcxn947/master/board_images/NXP-FRDM-MCXN947.webp",
+    "buy_now_links": [
+        "https://www.nxp.com/part/FRDM-MCXN947",
+        "https://www.nxp.com/part/LCD-PAR-S035"
     ],
     "branches": [
         "release/v9.2"
